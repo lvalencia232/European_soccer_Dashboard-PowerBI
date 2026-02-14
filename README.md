@@ -130,6 +130,3 @@ By combining:
 - Power BI for interactive visualization
 
 ---
-- Power BI for interactive visualization
-
----
